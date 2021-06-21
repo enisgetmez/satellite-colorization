@@ -1,0 +1,5 @@
+flask
+requests
+numpy
+opencv-python
+hostsman
