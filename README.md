@@ -1,7 +1,7 @@
 # satellite-colorization
 coloring old satellite images
 
-![colorize](https://media.giphy.com/media/WFrhnGyT7UOGO1weYb/source.gif)
+![colorize](https://github.com/enisgetmez/satellite-colorization/blob/main/colorize.gif?raw=true)
 
 ## Install and Run
 
