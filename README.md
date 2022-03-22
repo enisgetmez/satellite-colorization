@@ -12,11 +12,11 @@ coloring old satellite images
 Run cmd and enter the command:
 
     hostsman -i cbsproxy.ibb.gov.tr:127.0.0.1
-### step 4 :
+### step 3 :
 Download the relevant model from the url below and put it in the models folder:
 https://code.naturkundemuseum.berlin/mediaspherefornature/colorize_iiif/blob/master/experimental/model/colorization_release_v2.caffemodel
 
-### step 3 :
+### step 4 :
 Enter the command :
 
     python main.py 
